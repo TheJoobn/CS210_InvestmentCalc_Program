@@ -6,6 +6,6 @@ This project is object oriented, so you will need to add your functions as metho
 
 
 Write a function to: 
- - calculate bank balances without a monthly deposit being made. Get feedback on how well my function works and tips on how to make it better. Once you are satisfied with your feedback from Sense add your function to the appropriate class as a method of that class. 
- - calculate bank balances with a monthly deposit being made. Get feedback on how well my function works and tips on how to make it better. Once you are satisfied with your feedback from Sense add your function to the appropriate class as a method of that class.
- - format a table of values for display  based on which balance method was called. See the project documentation for details. Get feedback on how well my function works and tips on how to make it better. 
+ - calculate bank balances without a monthly deposit being made. Get feedback on how well my function works and tips on how to make it better.
+ - calculate bank balances with a monthly deposit being made. 
+ - format a table of values for display  based on which balance method was called. See the project documentation for details. 
